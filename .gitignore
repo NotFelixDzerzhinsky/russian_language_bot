@@ -1,0 +1,5 @@
+.idea
+.bin
+bot/token.go
+tasks/numbers
+database/user_info.db
