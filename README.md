@@ -1,7 +1,7 @@
 # Бот для подготовки к ЕГЭ по русскому языку
 
-Бот живёт по этой по этой ссылке: [@russian_language_ege_bot](t.me/russian_language_ege_bot), в случае каких-то
-поломок писать [@AkimovArtem](t.me/AkimovArtem)
+Бот живёт по этой по этой ссылке: [@russian_language_ege_bot](https://t.me/russian_language_ege_bot), в случае каких-то
+поломок писать [@AkimovArtem](https://t.me/AkimovArtem)
 
 Бот сделан для более удобного и быстрого ответа
 на задачи
